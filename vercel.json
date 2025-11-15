@@ -1,4 +1,11 @@
 {
+    "redirects": [
+      {
+        "source": "/",
+        "destination": "/modelviewer",
+        "permanent": false
+      }
+    ],
     "rewrites": [
       {
         "source": "/modelviewer",
