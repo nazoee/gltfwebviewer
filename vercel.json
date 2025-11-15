@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+      {
+        "source": "/modelviewer",
+        "destination": "/"
+      },
+      {
+        "source": "/modelviewer/:path*",
+        "destination": "/:path*"
+      }
+    ]
+}
